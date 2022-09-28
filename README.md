@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-👨‍🔬 I'm a researcher at the [Department of Chemistry](https://dq.fct.unl.pt/en/) of the [NOVA School of Science & Technology](https://fct.unl.pt/) at [NOVA University Lisbon](https://www.unl.pt/en/), I'm a member of the [Systems Biology and Engineering Group](https://sites.fct.unl.pt/sbegroup), which is part of the [Associated Laboratory for Green Chemistry - LAQV REQUIMTE](https://laqv.requimte.pt/), and I'm currently doing research on hybrid metabolic modelling of human cells.
+👨‍🔬 I'm a researcher at [BioISI - Biosystems and Integrative Sciences Institute](https://bioisi.pt), at the [Department of Chemistry and Biochemistry](https://ciencias.ulisboa.pt/en/dqb) of the [Faculty of Sciences](https://ciencias.ulisboa.pt/en) of the [University of Lisbon](https://www.ulisboa.pt/en).
 
 🧬 I'm a Molecular Biologist by training and I hold a MSc degree in Biotechnology.
 
