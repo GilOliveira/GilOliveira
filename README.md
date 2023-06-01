@@ -2,8 +2,6 @@
 
 💼 I'm a Bioninformatics Technician at [INESC-ID](https://inesc-id.pt) where I'm a Training Officer for [BioData.pt/ELIXIR Portugal](https://biodata.pt)
 
-👨‍🔬 I collaborate in research at [BioISI - Biosystems and Integrative Sciences Institute](https://bioisi.pt).
-
 🧬 I'm a Molecular Biologist by training and I hold a MSc degree in Biotechnology.
 
 💻 I can code in Python, C, R, Go, MATLAB, Bash, Pascal and JavaScript. I also know HTML, CSS, and LaTeX.
